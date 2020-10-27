@@ -6,10 +6,11 @@ With a background in web development on the creative/managerial side, I am very 
 
 If you are interested in connecting, please feel free to contact me at any of the links below:
 
-* - [LinkedIn](https://www.linkedin.com/in/drew-shroyer-861b32a4/)
-* - [AngelList](https://angel.co/u/drew-drew-shroyer)
-* or email me at drewshroyer@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/drew-shroyer-861b32a4/)
+- [AngelList](https://angel.co/u/drew-drew-shroyer)
+- or email me at drewshroyer@gmail.com
 
 Check out some of my pinned project repos below, their live links are included in the info for you to explore them. 
 
-[Click here to see my portfolio page] (www.drewshroyer.github.io) 😄
+[Click here to see my portfolio page](www.drewshroyer.github.io)😄
+
