@@ -1,4 +1,4 @@
-### Hi there - welcome to my GitHub - My name is Drew Shroyer, I'm a creative software engineer with a design eye and marketing mindset!
+### Hi there welcome to my GitHub! My name is Drew Shroyer - I'm a creative software engineer with a design eye and marketing mindset!
 
 Currently seeking full time employment oppurtunities, I am dilligently improving my existing projects, brainstorming new creative design/development solutions, and sharpening my Data Structures and Algorithms skills using LeetCode and other resourses to become a stronger full stack engineer.
 
