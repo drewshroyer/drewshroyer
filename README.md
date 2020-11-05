@@ -12,4 +12,4 @@ If you are interested in connecting, please feel free to contact me at any of th
 
 Check out some of my pinned project repos below, their live links are included in the ReadMe for you to explore them further. 
 
-[Click here to see my portfolio page](www.drewshroyer.github.io)😄
+-[Click here to see my portfolio page](www.drewshroyer.github.io) 😄
