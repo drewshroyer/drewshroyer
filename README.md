@@ -10,6 +10,6 @@ If you are interested in connecting, please feel free to contact me at any of th
 - [AngelList](https://angel.co/u/drew-drew-shroyer)
 - or email me at drewshroyer@gmail.com
 
-Check out some of my pinned project repos below, their live links are included in the ReadMe for you to explore them further. 
+Check out some of my pinned project repos below, their live links are included in the ReadMe as well as the About section for each project for you to explore them further!
 
 [Click here to see my portfolio page](https://drewshroyer.github.io/) 😄
