@@ -8,7 +8,6 @@ If you are interested in connecting, please feel free to contact me at any of th
 
 - [LinkedIn](https://www.linkedin.com/in/drew-shroyer-861b32a4/)
 - [AngelList](https://angel.co/u/drew-drew-shroyer)
-- [Resume](https://docs.google.com/document/d/e/2PACX-1vSapkifLigH4clhxcPpwihws5DLUIEMOvHzbjtw0ol8ZPvX2v1-N4Y85d9edDoJn0KvTVWs2wRPz98j/pub)
 - or email me at drewshroyer@gmail.com
 
 Check out some of my pinned project repos below, their live links are included in the ReadMe as well as the About section for each project for you to explore them further!
