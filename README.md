@@ -1,9 +1,5 @@
 ### Hi there, I'm Drew Shroyer, a creative software engineer with a design eye and inovative mindset! 
 
-Currently seeking full time employment oppurtunities, I am dilligently improving my existing projects, brainstorming new creative design/development solutions, and sharpening my data structures and algorithms skills using LeetCode and other resourses to become a stronger full stack engineer.
-
-With a background in web development on the creative/managerial side, I am very eager to find my first software engineering role at a company that values employee growth, open communciation, collaboration, passion, and creativity!
-
 If you are interested in connecting, please feel free to contact me at any of the links below: 
 
 - [LinkedIn](https://www.linkedin.com/in/drew-shroyer-861b32a4/)
